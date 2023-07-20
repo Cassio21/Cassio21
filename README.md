@@ -1,4 +1,22 @@
 # Olá, Eu sou Cássio Tenório 🤝
+* 👨‍💻 - Sou um apaixonado por desenvolvimento web focado em Front End
+* 📚 - Estou me aperfeiçoando em ReactJS / TypeScript / Bootstrap & Sass
+* 📈 - Minha meta é me tornar um Desenvolvedor qualificado e altamente competente.
+
+  <div>
+     <a href="https://github.com/Cassio21">
+       <img width="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio21&layout=compact&langs_count=7&theme=defalt"/>
+       <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Cassio21&show_icons=true&theme=defalt&include_all_commits=true&count_private=true"/>
+  </div>
+
+<h3>👋 Sou  um apaixonado por tecnologia e entusiasta da programação.</h3>
+<h4>🌱 Estou sempre em busca de novos desafios e projetos que me permitam expandir meu conhecimento e aplicar minhas habilidades de forma criativa, estou constantemente aprendendo e buscando oportunidades para colaborar com outros desenvolvedores em projetos interessantes e inovadores. Acredito no poder da comunidade de código aberto e na troca de conhecimentos para o crescimento coletivo.
+  
+<h4>🚀 Meu objetivo é continuar aprendendo, evoluindo e contribuindo para a comunidade de desenvolvedores. Estou animado com as possibilidades que a programação oferece e pronto para enfrentar novos desafios.</h4>
+
+"O conhecimento é a chave que abre todas as portas."
+
+<h4>Vamos construir um mundo digital melhor juntos! 🌍✨ </h4>
 
 <div>
   
