@@ -33,5 +33,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/cassiotenorio/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="30" width="40"></a>     
   <a href="mailto:cassiotenoriosc@gmail.com" target="_blank"><img src="https://icongr.am/devicon/google-original.svg?size=128& color="black" height="30" width="40"></a>
-  <a href="https://wa.me/5521989560484" target="_blank"> <img src="https://icongr.am/jam/whatsapp.svg?size=128&color=14ff30" height="30" width="40"> </a>
+  <a href="https://wa.me/5521989560484" target="_blank"><img src="https://icongr.am/jam/whatsapp.svg?size=128&color=14ff30" height="30" width="40"> </a>
 </div>
