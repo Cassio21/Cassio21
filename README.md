@@ -1,4 +1,4 @@
-# Olá, Eu sou Cássio Tenório 🤝
+# Olá, me chamo Cássio Tenório 🤝
 * 👨‍💻 - Sou um apaixonado por desenvolvimento web focado em Front End
 * 📚 - Estou me aperfeiçoando em ReactJS / TypeScript / Bootstrap & Sass
 * 📈 - Minha meta é me tornar um Desenvolvedor qualificado e altamente competente.
